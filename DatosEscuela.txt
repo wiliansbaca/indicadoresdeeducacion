@@ -1,0 +1,12 @@
+CodEscuela	NomEscuela	email	CodFacultad	CodUsuario
+AD	Administración	ad@gmail.com	CEAC	JMENDOZA
+CO	Contabilidad	co@gmail.com	CEAC	JMENDOZA
+DE	Derecho	de@gmail.com	DE	JMENDOZA
+IC	Ingenieria_Civil	ic@gmail.com	FIA	JMENDOZA
+IN	IngenieriaIndustrial	in@gmail.com	FIA	JMENDOZA
+IS	Ingeniera_de_Sistemas	is@gmail.com	FIA	JMENDOZA
+ME	Medicina_Humana	me@gmail.com	CS	JMENDOZA
+OD	Odontologia	od@gmail.com	CS	JMENDOZA
+PS	Psicologia	ps@gmail.com	CS	JMENDOZA
+EC	Economia	ec@gmail.com	CEAC	JMENDOZA
+ED	Educación	ed@gmail.com	CH	JMENDOZA
